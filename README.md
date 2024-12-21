@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kartikmeena34
 - 👀 I’m interested in Software Development & Data Analysis
 - 🌱 I’m currently learning python libraries,django and java
-- 💞️ I’m looking to collaborate on my File Transfer Website
+- 💞️ I’m looking to collaborate on Exciting projects
 
 
 <!---
